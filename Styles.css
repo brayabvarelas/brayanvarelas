@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('I/I/chanli.jpg'); /* Cambia 'fondo.jpg' por el nombre de tu imagen */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: rgba(51, 51, 51, 0.7); /* Fondo semitransparente para el encabezado */
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    background-color: rgba(); /* Fondo semitransparente para el contenido */
+}
+
+footer {
+    background-color: rgba(51, 51, 51, 0.7); /* Fondo semitransparente para el pie de página */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.photo p {
+    text-align: center; /* Centra el texto horizontalmente */
+    margin-top: 10px; /* Espacio entre la imagen y el texto */
+    font-size: 25px; /* Tamaño del texto */
+    color: red; /* Color del texto */
+}
