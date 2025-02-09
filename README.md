@@ -21,8 +21,8 @@
 - **JavaScript**: Funcionalidad de lightbox y descarga de imágenes.
 
 ## Capturas de pantalla
-![Captura de pantalla 1](imagenes/captura1.jpg)
-![Captura de pantalla 2](imagenes/captura2.jpg)
+![Captura de pantalla 1](cha.jpg)
+![Captura de pantalla 2](lino.jpg)
 
 ## Cómo contribuir
 Si quieres contribuir a este proyecto, sigue estos pasos:
