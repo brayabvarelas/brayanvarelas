@@ -24,17 +24,12 @@
 ![Captura de pantalla 1](cha.jpg)
 ![Captura de pantalla 2](lino.jpg)
 
-## Cómo contribuir
-Si quieres contribuir a este proyecto, sigue estos pasos:
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Añade nueva funcionalidad'`).
-4. Haz push a la rama (`git push origin nueva-funcionalidad`).
-5. Abre un Pull Request.
+## fotos
+![fotos1](roblox1.jpg)
+![fotos2](roblox2.jpg)
 
-## Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE). ¡Siéntete libre de usarlo y modificarlo!
 
----
+
+
 
 Creado con ❤️ por [B.R.N](https://github.com/tu-usuario).
